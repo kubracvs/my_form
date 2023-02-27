@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my_form/static/css/main.c14da08c.css",
+    "main.css": "/my_form/static/css/main.abb1595e.css",
     "main.js": "/my_form/static/js/main.e0491f99.js",
     "static/js/787.844f336d.chunk.js": "/my_form/static/js/787.844f336d.chunk.js",
     "static/media/close.png": "/my_form/static/media/close.a32aab94a2dd1f5f7eaa.png",
     "static/media/open.png": "/my_form/static/media/open.72739e69f1c6b90ea721.png",
-    "static/media/background.jpg": "/my_form/static/media/background.ab251a88a9ebbf988dbe.jpg",
+    "static/media/background.jpg": "/my_form/static/media/background.cab03bbbbe2414533955.jpg",
     "index.html": "/my_form/index.html",
-    "main.c14da08c.css.map": "/my_form/static/css/main.c14da08c.css.map",
+    "main.abb1595e.css.map": "/my_form/static/css/main.abb1595e.css.map",
     "main.e0491f99.js.map": "/my_form/static/js/main.e0491f99.js.map",
     "787.844f336d.chunk.js.map": "/my_form/static/js/787.844f336d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14da08c.css",
+    "static/css/main.abb1595e.css",
     "static/js/main.e0491f99.js"
   ]
 }
